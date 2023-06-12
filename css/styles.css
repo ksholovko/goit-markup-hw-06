@@ -1078,6 +1078,7 @@ img {
 }
 
 .custom-checkbox {
+
     display: inline-flex;
     justify-content: center;
     align-items: center;
@@ -1095,7 +1096,7 @@ img {
 }
 
 .terms-text {
-    display: flex;
+    display: inline-flex;
     align-items: center;
     font-weight: 400;
     font-size: 12px;
