@@ -1096,8 +1096,7 @@ img {
 }
 
 .terms-text {
-    display: inline-flex;
-    align-items: center;
+
     font-weight: 400;
     font-size: 12px;
     line-height: 1.17;
